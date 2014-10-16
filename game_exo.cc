@@ -6,6 +6,8 @@ using namespace std;
 
 int main() {
 
+  cout << "bonjour" << endl;
+
   int n=0;
   while (1) {
     system("clear"); /* efface l'écran du terminal */
